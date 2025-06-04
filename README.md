@@ -4,6 +4,12 @@ A custom, responsive landing page built with HTML and CSS to showcase a simple p
 
 ---
 
+### GitHub Pages:
+
+https://miiv0.github.io/landing-page/
+
+---
+
 ### 🎮 About
 This project is a clean and minimal landing page created to strengthen my frontend skills. It includes sections for an intro, featured projects, and contact info. It was built to practice writing semantic HTML, structuring a layout with CSS, and using responsive design techniques.
 
